@@ -1,0 +1,9 @@
+<meta>
+	<!-- Informação sobre  o Script -->
+    <info author="Carvalhos" 
+		description="Maker Básico no Jogo" 
+		version="4"
+	/>
+    <!--Uma Chamada do Arquivo Lua Tipo Server -->
+    <script src="server.lua" />
+</meta>
